@@ -1,4 +1,5 @@
-My Jenkins instance for this repository: http://35.189.38.63:8080/
+Primary Jenkins instance for this repository: http://35.189.38.63:8080/
+Secondary Jenkins instace for this repository: http://ec2-52-221-246-174.ap-southeast-1.compute.amazonaws.com:8080/
 
 # JenkinsDynatracePipelineTutorial
 Provides a full End-to-End Delivery Pipeline for a Node.js based Microservice Application using Jenkins Pipelines and Dynatrace. 
