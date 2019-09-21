@@ -41,7 +41,8 @@ PAYLOAD=$(cat <<EOF
   "customProperties" : {
     "JenkinsUrl" : "$10",
     "BuildUrl" : "$11",
-    "GitCommit" : "$12"
+    "GitCommit" : "$12",
+    "Email" : "christopher.chai@dynatrace.com"
   }
 }
 EOF
